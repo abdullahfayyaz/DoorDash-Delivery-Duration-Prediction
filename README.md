@@ -6,7 +6,7 @@ When a consumer places an order on DoorDash, showing an accurate expected time o
 ## Tech Stack
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, Keras (Deep Learning)
+* **Machine Learning:** Scikit-Learn, XGBoost, LightGBM
 * **Statistical Analysis:** Statsmodels (Variance Inflation Factor)
 * **Visualization:** Matplotlib, Seaborn
 
